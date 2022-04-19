@@ -4,7 +4,6 @@
 The purpose of this analysis is, all over the world people borrow money to purchase homes, cars or start businesses. Loans are an essential part of modern society. Loans presents an opportunity and challenge to banks and other loan institution.  On one hand it will increase revenue from the interest it generates, on the other hand it is taking risk that the borrower won’t repay loans amount and banks will lose money.   Banks are traditional relying on income, credit scores and assets, but the rise of the finical technology (FINTECH) as an enable to use the machine learning to analyze risk.
 In 2019, more than 19 million Americans had at least one unsecured personal loan. That's a record-breaking number! Personal lending is growing faster than credit card, auto, mortgage, and even student debt. With such incredible growth, FinTech firms are storming ahead of traditional loan processes. By using the latest machine learning techniques, these FinTech firms can continuously analyze large amounts of data and predict trends to optimize lending.
 
-![Credit Risk Analysis](challenge_17.png)
 
 ## Keeping the same format just change the file name per ‘Deliverable:1' and 'Deliverable:2’ of provided ‘credit_risk_resampling_starter_code.ipynb’ and ‘credit_risk_ensemble_starter_code.ipynb’ complete entering codes at “YOUR CODE HERE”.
 
